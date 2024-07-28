@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yOonG2jekAODxJ29y5EJou3KU/fE7sMSBcUrBXiFefXVYsEp90sUDCUOa0P+w/RIGueQJiKMV1FNeqsV7exHaQ==",
+  "success": true,
+  "projectFilePath": "/home/alessandro/Documents/Github/functional-core-imperative-shell-fsharp/functional-core-imperative-shell-fsharp.fsproj",
+  "expectedPackageFiles": [
+    "/home/alessandro/.nuget/packages/fsharp.core/8.0.200/fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}

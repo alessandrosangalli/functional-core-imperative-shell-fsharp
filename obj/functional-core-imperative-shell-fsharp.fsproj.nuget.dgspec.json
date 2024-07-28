@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/alessandro/Documents/Github/functional-core-imperative-shell-fsharp/functional-core-imperative-shell-fsharp.fsproj": {}
+  },
+  "projects": {
+    "/home/alessandro/Documents/Github/functional-core-imperative-shell-fsharp/functional-core-imperative-shell-fsharp.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/alessandro/Documents/Github/functional-core-imperative-shell-fsharp/functional-core-imperative-shell-fsharp.fsproj",
+        "projectName": "functional-core-imperative-shell-fsharp",
+        "projectPath": "/home/alessandro/Documents/Github/functional-core-imperative-shell-fsharp/functional-core-imperative-shell-fsharp.fsproj",
+        "packagesPath": "/home/alessandro/.nuget/packages/",
+        "outputPath": "/home/alessandro/Documents/Github/functional-core-imperative-shell-fsharp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/alessandro/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/home/alessandro/.dotnet/sdk/8.0.202/FSharp/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[8.0.200, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/alessandro/.dotnet/sdk/8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
