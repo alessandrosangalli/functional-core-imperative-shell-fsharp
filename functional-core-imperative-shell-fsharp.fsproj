@@ -6,9 +6,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="WeatherForecast.fs" />
-    <Compile Include="Controllers/WeatherForecastController.fs" />
+    <Compile Include="Core\Product.fs" />
+    <Compile Include="Core\Order.fs" />
+    <Compile Include="Core\ShoppingCart.fs" />
+    <Compile Include="Controllers\ProductController.fs" />
+    <Compile Include="Controllers\OrderController.fs" />
+    <Compile Include="Controllers\ShoppingCartController.fs" />
     <Compile Include="Program.fs" />
+    <Compile Include="Startup.fs" />
   </ItemGroup>
 
 </Project>

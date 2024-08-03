@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("functional-core-imperative-shell-fsharp")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e40db64b0e3f143a4b2c7a71e71d851f16bde281")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9350f3162425e36a8011053aa42d70e04e6fa80f")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("functional-core-imperative-shell-fsharp")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("functional-core-imperative-shell-fsharp")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]

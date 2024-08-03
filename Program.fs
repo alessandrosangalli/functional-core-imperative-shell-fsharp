@@ -1,5 +1,7 @@
 namespace functional_core_imperative_shell_fsharp
+
 #nowarn "20"
+
 open System
 open System.Collections.Generic
 open System.IO
